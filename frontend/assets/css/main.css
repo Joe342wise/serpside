@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .card-glass {
+    @apply bg-base-100/70 backdrop-blur-xl border border-base-300/50 shadow-lg shadow-black/5;
+  }
+
+  .card-glass-solid {
+    @apply bg-base-100/85 backdrop-blur-2xl border border-base-300/40 shadow-xl shadow-black/5;
+  }
+}

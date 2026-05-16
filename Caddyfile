@@ -1,0 +1,12 @@
+# ─── Production ───────────────────────────────────────────
+# Uncomment and replace with your domain for automatic HTTPS:
+#
+# serpside.example.com {
+#     reverse_proxy frontend:3000
+# }
+
+# ─── Development / VPS without domain ─────────────────────
+# Uses HTTP. Replace the IP or hostname as needed.
+:80 {
+    reverse_proxy frontend:3000
+}
