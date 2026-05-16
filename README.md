@@ -90,7 +90,7 @@ Deploy to any Docker host (Railway, Fly.io, Render) for the hosted demo bonus ra
 
 ## Raffle Entry
 
-Built by [your name] for the **SerpApi PyCon US Raffle**.
+Built by Joseph Osei Yaw Nyarko for the **SerpApi PyCon US Raffle**.
 
-- App: _add your hosted URL here_
-- Repo: _add your GitHub URL here_
+- App: [serpside.osei.app](https://serpside.osei.app)
+- Repo: [SerpSide](https://github.com/Joe342wise/serpside.git)
